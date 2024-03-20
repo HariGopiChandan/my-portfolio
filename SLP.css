@@ -1,0 +1,101 @@
+body{
+    padding:0;
+    margin: 0;
+    background-color:rgb(42, 41, 41);
+    display: flex;
+    justify-content: center;
+    margin-top:20px;;
+
+   }
+main{
+    background-color: rgb(74, 73, 73);
+    height:600px;
+    width:400px;
+    border-radius:15px;
+  }
+.img-center{
+    text-align: center;
+    margin-top:25px;;
+}
+.img-align{
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+  }
+.text-align{
+    text-align: center;
+    line-height:10px;
+    color:aliceblue;
+}
+h4{
+    padding-top:10px;
+}
+h3{
+    color:rgb(242, 242, 151);
+    padding-top: 10px;
+}
+
+
+#list ul{
+    list-style-type:none;
+}
+#list{
+ text-align: center;
+ line-height:4rem;
+ color: aliceblue;
+}
+#list ul #git{
+    box-sizing:border-box;
+    background-color: rgb(64, 64, 65);
+    height:60px;
+    width:320px;
+    border-radius:10px;
+    margin-bottom: 0.5rem;
+
+}
+#list ul #fm{
+    box-sizing:border-box;
+    background-color:  rgb(64, 64, 65);
+    height:60px;
+    width:320px;
+    border-radius:10px;
+    margin-bottom: 0.5rem;
+
+}
+#list ul #link{
+    box-sizing:border-box;
+    background-color: rgb(64, 64, 65);
+    height:60px;
+    width:320px;
+    border-radius:10px;
+    margin-bottom: 0.5rem;
+
+}
+#list ul #tw{
+    box-sizing:border-box;
+    background-color: rgb(64, 64, 65);
+    height:60px;
+    width:320px;
+    border-radius:10px;
+    margin-bottom: 0.5rem;
+}
+#list ul #inst{
+    box-sizing:border-box;
+    background-color: rgb(64, 64, 65);
+    height:60px;
+    width:320px;
+    border-radius:10px;
+}
+
+#list ul a{
+    color:aliceblue;
+    text-decoration:none;
+
+}
+#list li:hover{
+    color: rgb(129, 255, 127);
+}
+#list li:hover{
+    background-color: brown;
+}
+
